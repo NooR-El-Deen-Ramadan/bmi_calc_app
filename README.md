@@ -6,7 +6,7 @@ A simple and elegant **BMI (Body Mass Index) Calculator App** built with **Flutt
 
 ### 🏠 Home Screen
 
-### 📊 Result - Obesity
+### 📊 Result screen
 
 ## 🚀 Features
 
@@ -15,8 +15,7 @@ A simple and elegant **BMI (Body Mass Index) Calculator App** built with **Flutt
 - ⚖️ Weight and age adjustment with +/- buttons
 - 🔢 Real-time BMI calculation
 - 💡 Health advice based on BMI category
-- 🎨 Beautiful, responsive UI
-
+- 🎨 categories colored based on BMI 
 ## 📐 BMI Categories
 
 | BMI Range       | Category      |
