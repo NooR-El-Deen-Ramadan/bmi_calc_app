@@ -1,4 +1,4 @@
-# 🧮 BMI Calculator
+#  🧮 BMI Calculator
 
 A simple and elegant **BMI (Body Mass Index) Calculator App** built with **Flutter**. The app allows users to input their gender, height, weight, and age to calculate their BMI and receive a health classification based on the result.
 
