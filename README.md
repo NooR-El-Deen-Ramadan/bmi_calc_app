@@ -5,13 +5,8 @@ A simple and elegant **BMI (Body Mass Index) Calculator App** built with **Flutt
 ## 📱 Screenshots
 
 ### 🏠 Home Screen
-<img src="screenshots/home_screen.png" width="250"/>
 
 ### 📊 Result - Obesity
-<img src="screenshots/obesity_result.png" width="250"/>
-
-### 📊 Result - Underweight
-<img src="screenshots/underweight_result.png" width="250"/>
 
 ## 🚀 Features
 
