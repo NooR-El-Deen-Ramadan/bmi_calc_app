@@ -10,12 +10,19 @@ The app helps users calculate their BMI by entering their gender, height, weight
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screens_screenshots_readme/main_screen.png" width="200"/>
-  <img src="screens_screenshots_readme/under_weight.png" width="200"/>
-  <img src="screens_screenshots_readme/normal_weight.png" width="200"/>
-  <img src="screens_screenshots_readme/over_weight.png" width="200"/>
-  <img src="screens_screenshots_readme/obese_weight.png" width="200"/>
+  <img src="screens_screenshots_readme/main_screen.png" width="220"/>
+  <img src="screens_screenshots_readme/under_weight.png" width="220"/>
 </p>
+
+<p align="center">
+  <img src="screens_screenshots_readme/normal_weight.png" width="220"/>
+  <img src="screens_screenshots_readme/over_weight.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="screens_screenshots_readme/obese_weight.png" width="220"/>
+</p>
+
 
 ---
 
