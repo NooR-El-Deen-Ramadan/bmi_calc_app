@@ -1,34 +1,57 @@
-#  🧮 BMI Calculator
+# 🧮 BMI Calculator
 
-A simple and elegant **BMI (Body Mass Index) Calculator App** built with **Flutter**. The app allows users to input their gender, height, weight, and age to calculate their BMI and receive a health classification based on the result.
+A simple and elegant **BMI (Body Mass Index) Calculator App** built with **Flutter**.  
+The app helps users calculate their BMI by entering their gender, height, weight, and age, then provides a categorized result with useful health advice.
+
+---
 
 ## 📱 Screenshots
 
-### 🏠 Home Screen
+### 🏠 Main Screen
+<img src="screens_screenshots_readme/main_screen.png" width="250"/>
 
-### 📊 Result screen
+### 📊 Underweight
+<img src="screens_screenshots_readme/normal_weight.png" width="250"/>
+
+### 📊 Normal Weight
+<img src="screens_screenshots_readme\normal_weight.png" width="250"/>
+
+### 📊 Overweight
+<img src="screens_screenshots_readme\over_weight.png" width="250"/>
+
+### 📊 Obese
+<img src="screens_screenshots_readme\obese_weight.png" width="250"/>
+
+---
 
 ## 🚀 Features
 
-- 🚻 Gender selection (Male / Female)
-- 📏 Height adjustment using a slider
-- ⚖️ Weight and age adjustment with +/- buttons
-- 🔢 Real-time BMI calculation
-- 💡 Health advice based on BMI category
-- 🎨 categories colored based on BMI 
+- 🚻 Gender selection (Male / Female)  
+- 📏 Adjustable height with a slider  
+- ⚖️ Adjustable weight and age with +/- buttons  
+- 🔢 Instant BMI calculation  
+- 💡 Clear health classification with advice  
+- 🎨 Modern and responsive Flutter UI  
+
+---
+
 ## 📐 BMI Categories
 
-| BMI Range       | Category      |
-|-----------------|---------------|
-| < 18.5          | Underweight   |
-| 18.5 - 24.9     | Normal        |
-| 25.0 - 29.9     | Overweight    |
-| 30.0 and above | Obesity       |
+| BMI Range        | Category       |
+|------------------|----------------|
+| < 18.5           | Underweight    |
+| 18.5 - 24.9      | Normal Weight  |
+| 25.0 - 29.9      | Overweight     |
+| 30.0 and above   | Obese          |
+
+---
 
 ## 🛠️ Built With
 
-- [Flutter](https://flutter.dev/)
-- Dart
+- [Flutter](https://flutter.dev/)  
+- Dart  
+
+---
 
 ## 📦 Installation
 
